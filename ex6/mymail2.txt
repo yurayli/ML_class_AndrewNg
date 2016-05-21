@@ -1,0 +1,69 @@
+*** The Complete Ruby on Rails Developer Course is here! You can get it for 93% off for the next 5 days! ***
+
+I've teamed up with Mashrur Hossain to bring you the most popular Ruby on Rails course on Udemy for just $19 for the next 5 days. Ruby on Rails is one of the most powerful web app frameworks in the world and Mashrur, a successful instructor and creator of multiple top-rated rails courses here on udemy and I bring you this comprehensive 30+ hour 5-star rated (top in terms of popularity for rails/ruby and ruby on rails) course with - text code after each lesson so you’re never lost, FREE live help, code challenges, 4 feature rich web app projects including a project management app that you can customize to launch your own business! designed with you in mind, to turn you into a Ruby on Rails Developer!
+
+Get it for $10 dollars now: https://www.udemy.com/the-complete-ruby-on-rails-developer-course/?couponCode=rails19
+
+"Just Amazing - This course and the instructor is just amazing. Tons of information, Quality content, easy to follow the video and last but not least forum and discussion support. I am really happy that I am doing this course. Thank you Mashrur, You are Rocking."
+
+Ruby on Rails developers command some of the highest salaries in the world and here’s a little secret, you don't need any experience to get started. The first thing you'll do is master the basics of the Ruby language, building fun mini-projects along the way and then move on to Rails, starting with the basics, learning everything that goes on under the hood of a Rails application, and through building 4 feature rich web apps you’ll end up with the project management app which is a software as a service app that you can customize and use to launch your own business if you choose! The Complete Ruby on Rails Developer Course will teach you everything you need to know to design, build and launch your own web applications!
+
+This course also comes with live help which can be essential in programming courses. Join hundreds of students who are already in the live help channel and become part of this amazing community. There are even staffed office hours!
+
+Some of the top sites in the world like Basecamp, Twitter, Shopify, Github, LivingSocial, Groupon, Hulu, Airbnb, Yellow Pages (and more!) have all started with Rails and due to this Rails developers are always huge demand and command some of the highest salaries in the market.
+
+Some of the key features of this course are:
+
+- 250+ lectures and 30+ hours of content
+
+- Introduction to Ruby - find out just how easy it really is, from writing your first program to say "Hello World" to Object Oriented Programming while building multiple fun mini-projects along the way, get an in-depth crash course on the language behind ruby on rails
+
+- 4 feature rich Ruby on Rails applications with varying focus as you learn Rails - you’ll build the first one using no generators and learn everything going on under the hood of a Rails application, then you’ll speed up development by using rapid prototyping techniques while building the next 3 apps ending with a Software as a Service - Project Management app
+
+- You’ll get free live support, already used by hundreds of students who are present there, including designated office hours whe n Teaching Assistants and the instructor himself will be available
+
+All the essentials of software and web app development:
+
+- Git for version control, Github as code repository, Heroku for production deployment
+
+- Working with Amazon Web Services S3 bucket for storage, Sendgrid for production email functionality, Multi-Tenancy using Milia
+
+- Custom credit card form creation and working with Stripe API to implement custom payment processing functionality
+
+- Rails MVC structure in-depth - Models, Views, Controllers including design and conceptualization using wire-framing tools
+
+- Building Authentication Systems from scratch including admin feature, log in/logout and signup at first, then learning how to use Devise to automate the process and then extend the basic functionality provided by Devise to customize it!
+
+- Ajax, Jquery, Javascript - all used in different parts of the course with your rails applications!
+
+- Bootstrap for UI styling - first step-by-step by writing all the code, then by using generators to generate pages of styled views by simply using a few commands!
+
+- Build test suites by writing Unit, Functional and Integration tests
+
+- Migrations, one-to-many and complex many-to-many associations at the database layer and implementation with Rails using ActiveRecord
+
+- much, much more!
+
+Get it now for $19 dollars: https://www.udemy.com/the-complete-ruby-on-rails-developer-course/?couponCode=rails19
+
+I worked closely with Mashrur to make sure it was up to my high standards, and I can confirm that it is. With over 35 5-star ratings already, this is the course to get, just look at what some of the students are saying:
+
+Boris:
+
+"Perhaps the most active and up to date course on rails
+
+Live support, not just via udemy dashboard, Great knowledgable response from instructor. I like it a lot. I purchased two courses and enjoying it. Thanks Mashrur"
+
+Nathaniel:
+
+"Very easy to follow
+
+I recommend this to everyone starting a web developer career."
+
+Tom:
+
+"Clear, digestible explanations"
+
+Happy Coding!
+
+Rob

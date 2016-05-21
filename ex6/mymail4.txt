@@ -1,0 +1,9 @@
+We just released a new Nanodegree in Machine Learning. Machine learning is very much in demand. There is perhaps no faster growing field in Silicon Valley than this one. Machine learning is at the core of so many systems, from Google's self-driving car to Nexflix's movie recommendation engine. According to Glassdoor, machine learning skills as an IT professional or software engineer has a median entry-level salary between $85,000 and $137,000.
+
+This launch also has personal significance. Once upon a time, long before I decided to run Udacity, I wrote a PhD thesis in machine learning, and helped Carnegie Mellon kick off its Machine Learning Department. Fast forward ... and my very first online class (AI-class) had a significant fraction dedicated to Big Data and Machine Learning.
+
+If you followed the news, you saw that our partner, Google, just open-sourced TensorFlow, its deep learning software. Deep learning is a form of machine learning based on brain-like neural networks, capable of learning very complex things. In Silicon Valley, deep learning is now the hottest growth area for new start-ups. And get this: our Machine Learning Engineer Nanodegree program already has a class on deep learning in TensorFlow in development, overseen by Vincent Vanhoucke, technical lead and manager in Google's deep learning infrastructure team.
+
+Enroll today, and start learning!
+
+Sincerely,
