@@ -2,7 +2,7 @@
 
 ### Each assignment corresponding to a specific topic
 
-Brief topics and subtopics as follows
+Brief topics and subtopics are as follows
 
 #### Supervised learning
 
