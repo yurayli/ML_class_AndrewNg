@@ -46,8 +46,8 @@ J = 0.5 * (sum((H(R(:,:) == 1) - Y(R(:,:) == 1)).^2) + ...
 
 % (n_m x n_u) * (n_u x n) with r(i,j) = 1   = (n_m x n) array
 for i = 1:num_movies
-	for j = 1:num_features	
-		X_grad(i,j) = (H(i, R(i, :)) - Y(i, R(i, :))) * Theta(R(i,:), j);
+	for k = 1:num_features	
+		X_grad(i,k) = (H(i, R(i, :)) - Y(i, R(i, :))) * Theta(R(i,:), k);
 	end
 end
 X_grad = X_grad + lambda * X;
@@ -55,9 +55,9 @@ X_grad = X_grad + lambda * X;
 % (n x n_m) * (n_m x n_u) with r(i,j) = 1   = (n x n_u) array
 X = X';
 Theta_grad = Theta_grad';
-for i = 1:num_features
+for k = 1:num_features
 	for j = 1:num_users	
-		Theta_grad(i,j) = X(i, R(:,j)) * (H(R(:,j), j) - Y(R(:,j), j));
+		Theta_grad(k,j) = X(k, R(:,j)) * (H(R(:,j), j) - Y(R(:,j), j));
 	end
 end
 Theta_grad = Theta_grad' + lambda * Theta;
