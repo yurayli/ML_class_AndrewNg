@@ -80,8 +80,8 @@ J = (1/m) * sum(sum(cost)) + regularFactor;
 
 %% Step 2: backpropagation algorithm and return the gradient of the cost function
 deltaH = H - encode_y;							% (mxs2) array
-deltaHidden = (deltaH * Theta2') .* (hiddenUnits.*(1-hiddenUnits));  % (mx(s1+1)) array
-deltaHidden = deltaHidden(:, 2:end)				% (mxs1) array
+deltaHidden = (deltaH * Theta2) .* (hiddenUnits.*(1-hiddenUnits));  % (mx(s1+1)) array
+deltaHidden = deltaHidden(:, 2:end);			% (mxs1) array
 Theta2_grad = deltaH' * hiddenUnits;			% (s2x(s1+1)) array
 Theta1_grad = deltaHidden' * X;					% (s1x(s0+1)) array
 
